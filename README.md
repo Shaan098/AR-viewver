@@ -1,6 +1,6 @@
 # AR Educational Content Viewer
 
-A premium MERN stack application for viewing educational 3D content in Augmented Reality.
+A premium MERN stack application for viewing educational 3D content in Augmented Reality
 
 ## Prerequisites
 
