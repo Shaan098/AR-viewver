@@ -43,7 +43,6 @@ A premium MERN stack application for viewing educational 3D content in Augmented
     ```bash
     cd client
     npm run dev
-    ```
 
 ## Features
 
