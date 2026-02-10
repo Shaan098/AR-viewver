@@ -1,15 +1,15 @@
-# AR Educational Content Viewer
+# AR Educational Content Viewer.
 
 A premium MERN stack application for viewing educational 3D content in Augmented Reality.
 
-## Prerequisites
+## Prerequisites.
 
-- Node.js (v14+)
-- MongoDB (Local or Atlas)
+- Node.js (v14+).
+- MongoDB (Local or Atlas).
 
-## Setup
+## Setup.
 
-1.  **Install Dependencies**
+1.  **Install Dependencies**.
 
     ```bash
     # Server
@@ -21,7 +21,7 @@ A premium MERN stack application for viewing educational 3D content in Augmented
     npm install
     ```
 
-2.  **Database Setup**
+2.  **Database Setup**.
 
     Ensure MongoDB is running locally on port 27017.
     
@@ -31,7 +31,7 @@ A premium MERN stack application for viewing educational 3D content in Augmented
     npx ts-node src/seed.ts
     ```
 
-3.  **Run the Application**
+3.  **Run the Application**.
 
     Start the server:
     ```bash
@@ -39,12 +39,12 @@ A premium MERN stack application for viewing educational 3D content in Augmented
     npm run dev
     ```
 
-    Start the client:
+    Start the client:.
     ```bash
     cd client
     npm run dev
 
-## Features
+## Features.
 
 - **Interactive 3D Viewer**: Rotate, zoom, and pan 3D models.
 - **Augmented Reality**: View models in your physical space (requires AR-compatible mobile device).
